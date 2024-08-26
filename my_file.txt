@@ -1,0 +1,6 @@
+Hello, this is the first line.
+This is the second line with a number: 42
+Third line: Python file handling example.
+Fourth line: Appending more text.
+Fifth line: More content added with a number: 99
+Sixth line: End of file handling example.
